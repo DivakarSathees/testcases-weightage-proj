@@ -1,0 +1,139 @@
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/appsettings.Development.json
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/appsettings.json
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/dotnetapp.staticwebassets.runtime.json
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/dotnetapp
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/dotnetapp.deps.json
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/dotnetapp.runtimeconfig.json
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/dotnetapp.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/dotnetapp.pdb
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Azure.Core.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Azure.Identity.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Humanizer.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/System.Memory.Data.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/obj/Debug/net6.0/dotnetapp.csproj.AssemblyReference.cache
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/obj/Debug/net6.0/dotnetapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/obj/Debug/net6.0/dotnetapp.AssemblyInfoInputs.cache
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/obj/Debug/net6.0/dotnetapp.AssemblyInfo.cs
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/obj/Debug/net6.0/dotnetapp.csproj.CoreCompileInputs.cache
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/obj/Debug/net6.0/dotnetapp.MvcApplicationPartsAssemblyInfo.cache
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/obj/Debug/net6.0/dotnetapp.RazorAssemblyInfo.cache
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/obj/Debug/net6.0/dotnetapp.RazorAssemblyInfo.cs
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/obj/Debug/net6.0/staticwebassets.build.json
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/obj/Debug/net6.0/staticwebassets.development.json
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/obj/Debug/net6.0/scopedcss/bundle/dotnetapp.styles.css
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/obj/Debug/net6.0/scopedcss/projectbundle/dotnetapp.bundle.scp.css
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/obj/Debug/net6.0/dotnetapp.csproj.CopyComplete
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/obj/Debug/net6.0/dotnetapp.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/obj/Debug/net6.0/refint/dotnetapp.dll
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/obj/Debug/net6.0/dotnetapp.pdb
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/obj/Debug/net6.0/dotnetapp.genruntimeconfig.cache
+/home/coder/project/workspace/week2_day6_s1_own/dotnetapp/obj/Debug/net6.0/ref/dotnetapp.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\appsettings.Development.json
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\appsettings.json
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\dotnetapp.staticwebassets.runtime.json
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\dotnetapp.exe
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\dotnetapp.deps.json
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\dotnetapp.runtimeconfig.json
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\dotnetapp.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\dotnetapp.pdb
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Azure.Core.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Azure.Identity.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Humanizer.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\dotnetapp.csproj.AssemblyReference.cache
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\dotnetapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\dotnetapp.AssemblyInfoInputs.cache
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\dotnetapp.AssemblyInfo.cs
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\dotnetapp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\dotnetapp.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\dotnetapp.RazorAssemblyInfo.cache
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\dotnetapp.RazorAssemblyInfo.cs
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\staticwebassets\msbuild.dotnetapp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\staticwebassets\msbuild.build.dotnetapp.props
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.dotnetapp.props
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.dotnetapp.props
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\scopedcss\bundle\dotnetapp.styles.css
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\scopedcss\projectbundle\dotnetapp.bundle.scp.css
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\dotnetapp.csproj.CopyComplete
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\dotnetapp.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\refint\dotnetapp.dll
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\dotnetapp.pdb
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\dotnetapp.genruntimeconfig.cache
+D:\Visual Studio\Week2Day6s1own-master\Week2Day6s1own-master\dotnetapp\obj\Debug\net6.0\ref\dotnetapp.dll

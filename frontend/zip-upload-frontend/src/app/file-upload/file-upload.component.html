@@ -1,0 +1,18 @@
+<div>
+  <h2>Upload File</h2>
+  <input type="file" (change)="onFileSelected($event)" />
+  <br />
+  <label for="evaluationTypes">Select Evaluation Types:</label>
+  <select id="evaluationTypes" [(ngModel)]="selectedEvaluationTypes" name="evaluationTypes" multiple>
+    <option value="Karma">Karma</option>
+    <option value="NUnit">NUnit</option>
+  </select>
+  <br />
+  <button (click)="onUpload()">Upload</button>
+</div>
+
+<div *ngIf="responseText">
+  <h3>Response:</h3>
+  <pre>{{ responseText }}</pre>
+</div>
+
