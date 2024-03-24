@@ -5,5 +5,14 @@ import { Component, Input } from '@angular/core';
   templateUrl: './json-viewer.component.html',
 })
 export class JsonViewerComponent {
+  loading: boolean = true;
   @Input() jsonData: any;
+
+  constructor() {}
+
+  ngOnInit() {
+    this.loading = false;
+    console.log(this.jsonData);
+
+  }
 }

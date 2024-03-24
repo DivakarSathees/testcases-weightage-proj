@@ -1,0 +1,23 @@
+Carservice.cs
+This file has a namespace: dotnetapp.Models
+Model:
+1. The model class name should be "Carservice" with the following properties:
+   • id: Unique identifier for the Carservice model with data type "int" (Should be auto-incremented)
+   • car_name: Property of the Carservice model with a maximum length of "255" and data type "string" with error message "Car name cannot exceed 255 characters."
+   • car_number: Property of the Carservice model with a maximum length of "255" and data type "string"
+   • car_varient: Property of the Carservice model with data type "string"
+   • customer_name: Property of the Carservice model with data type "string"
+   • complaint: Property of the Carservice model with data type "string"
+   • phonenumber: Property of the Carservice model with a regular expression of "^\d{10}$" and data type "string" with error message "Invalid phone number. It should be 10 digits."
+   • address: Property of the Carservice model with data type "string"
+CarserviceController.cs
+This file has a namespace: dotnetapp.Controllers
+2. CarserviceController:The controller class name should be "CarserviceController" with the following Methods:
+OtherDbContext.cs
+This file has a DbContext class: OtherDbContext
+3. OtherDbContext:
+    • The OtherDbContext class should be created in Models folder with namespace dotnetapp.Models.
+    • Define a DbSet for the tables(Movies, and Actors) in the OtherDbContext class.
+ShoppingCartController.cs
+This file has a namespace: dotnetapp.Controllers
+3. ShoppingCartController:The controller class name should be "ShoppingCartController" with the following Methods:
